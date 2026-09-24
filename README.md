@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+with+AI+%E2%9C%A8;Turning+Data+into+Insights+%F0%9F%93%8A;Exploring+LLMs+%26+RAG+%F0%9F%A4%96;Analyzing+the+World+of+Sports+%F0%9F%8F%8E%EF%B8%8F" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
 
 ## 🌷 About Me
 
