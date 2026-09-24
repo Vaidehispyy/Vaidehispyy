@@ -1,57 +1,163 @@
-# Hi, I'm Vaidehi 👋
+<h1 align="center">Hi 👋, I'm Vaidehi</h1>
 
-### AI/ML Engineering Student | Data Analytics | Generative AI
+<h3 align="center">
+AI/ML Engineering Student • Data Analytics • Generative AI
+</h3>
 
-I'm a Computer Science Engineering student specializing in AI & ML,
-passionate about building practical AI systems and turning data into
-meaningful insights.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Engineering+Student;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Generative+AI+%7C+LLMs+%7C+RAG;Sports+%26+F1+Analytics+Enthusiast" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</p>
 
-- 🤖 Exploring Machine Learning, NLP & Generative AI
-- 📊 Interested in Data Analytics & Sports Analytics
-- 🏎️ Building projects around F1 & sports data
-- 🧠 Currently learning LLMs, RAG & AI-powered applications
-- 🚀 Open to internships, collaborations & interesting projects
+## 🌷 About Me
 
----
+🎓 Computer Science Engineering student specializing in AI & ML
+
+🤖 Building practical AI/ML and Generative AI applications
+
+📊 Exploring Data Analytics, Machine Learning & Data Visualization
+
+🏎️ Interested in F1 and Sports Analytics
+
+🧠 Currently exploring LLMs, RAG, NLP & AI-powered systems
+
+🚀 Always learning, building and experimenting
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python • SQL • Java • JavaScript
+### 👩‍💻 Languages
 
-### AI / ML
-Scikit-learn • NLP • OpenCV • Generative AI • LLMs • RAG
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
+</p>
 
-### Data
-Pandas • NumPy • Power BI • Tableau 
+### 🤖 AI / ML & Data
 
-### Databases
-MySQL • MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn" />
+</p>
 
-### Tools
-Git • GitHub • VS Code • Jupyter • Google Colab • Flask
+`Pandas` • `NumPy` • `NLP` • `Generative AI` • `LLMs` • `RAG`
 
----
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,flask,fastapi" />
+</p>
+
+### 🌐 Web & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,git,github,vscode" />
+</p>
+
+### 📊 Analytics & Visualization
+
+`Power BI` • `Tableau` • `Plotly` • `Streamlit`
+
+## 🌱 Currently Exploring
+
+- 🧠 Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🕸️ Knowledge Graphs
+- ✨ Generative AI
+- 📊 Advanced Data Analytics
+- 🏎️ Sports & F1 Analytics
+
+## 💫 A Little More About Me
+
+> I like combining creativity, data and AI to build things that are
+> actually useful — from analytics dashboards to intelligent applications.
+
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏎️ RaceMind-AI
-F1 strategy simulation and race analytics platform using real-world
+
+F1 race strategy analysis and simulation platform using real-world
 motorsport data.
 
+**Tech:** Python • FastF1 • Pandas • Streamlit • Plotly
+
+<a href="https://github.com/Vaidehispyy/RaceMind-AI">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
 ### 🏏 Cricket Analytics & Wicket Prediction
-Machine-learning based cricket analytics platform for player,
-match and wicket-probability analysis.
+
+ML-powered cricket analytics platform for match statistics,
+player analysis and wicket probability prediction.
+
+**Tech:** Python • Pandas • Scikit-learn • Streamlit
+
+<a href="YOUR_CRICKET_REPOSITORY_LINK">
+View Project →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎙️ TalkSense
-Web-based speech analysis system measuring fluency, speaking speed,
-fillers, pauses, sentiment and confidence.
+
+Web-based speech analysis platform that evaluates speaking speed,
+fluency, fillers, pauses, sentiment and confidence.
+
+**Tech:** Python • FastAPI • NLP • MediaPipe • SQLite
+
+<a href="YOUR_TALKSENSE_REPOSITORY_LINK">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🌆 AI Dream City Planner
-AI-powered city planning and visualization application.
 
----
+AI-powered city planning and visualization application for exploring
+and designing future cities.
+
+**Tech:** Python • Streamlit • Plotly • Generative AI
+
+<a href="YOUR_DREAM_CITY_REPOSITORY_LINK">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
+
 etc.... Do check my profile for more projects
+
+## 🔭 What I'm Building Next
+
+### 🤖 AI × Data Analytics
+
+I'm exploring projects that combine:
+
+`Data Analytics` + `Machine Learning` + `LLMs` + `RAG` + `Real-World Data`
+
+with a focus on solving practical industry problems.
+
+### 🏎️ Sports Intelligence
+
+Exploring AI-powered analytics for:
+
+`F1` • `Cricket` • `Football` • `Tennis` • `Sports Performance`
+
 
 ## 📊 GitHub Stats
 
@@ -63,7 +169,17 @@ etc.... Do check my profile for more projects
   <img src="https://streak-stats.demolab.com?user=Vaidehispyy&hide_border=true" height="180"/>
 </p>
 
+
 ## 🤝 Let's Connect
 
-[LinkedIn](www.linkedin.com/in/vaidehi-bhuwad-201311431)
-[Email](vaidehibhuwad09@gmail.com)
+<p align="center">
+
+<a href="www.linkedin.com/in/vaidehi-bhuwad-201311431">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vaidehibhuwad09@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
