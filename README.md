@@ -53,11 +53,15 @@ AI-powered city planning and visualization application.
 ---
 etc.... Do check my profile for more projects
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<!-- GitHub stats will go here -->
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaidehispyy&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehispyy&layout=compact&hide_border=true" height="180"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vaidehispyy&hide_border=true" height="180"/>
+</p>
 
 ## 🤝 Let's Connect
 
