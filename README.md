@@ -4,9 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Engineering+Student;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Generative+AI+%7C+LLMs+%7C+RAG;Sports+%26+F1+Analytics+Enthusiast" />
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
